@@ -1,6 +1,6 @@
-## Marcos Dionel Asesorias - NextJs & Tailwind Css
+# Marcos Dionel Asesorias - NextJs & Tailwind Css
 
-# Dependencies used in tihs project
+## Dependencies used in tihs project
 - nextjs
 - tailwindcss
 - @tsparticles/react
@@ -9,7 +9,7 @@
 - react-type-animation
 - react-player
 
-# Making web step by step
+## Making web step by step
 
 - Edit taiwind.config.ts
 - Cover Particles used in page.tsx (i tsParticles)
