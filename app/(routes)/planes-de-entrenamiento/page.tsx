@@ -48,7 +48,7 @@ const PlanesDeEntrenamiento = () => {
                         <source src="https://res.cloudinary.com/dvvtskcux/video/upload/v1708467996/fyqaqdewqo8zhmhd3ncr.mp4"/>
                     </video>
                     </div>
-                    <div className="grid justify-items-center absolute top-[24rem] xl:top-[34rem] z-20 w-full">
+                    <div className="grid justify-items-center items-center m-auto absolute top-[24rem] xl:top-[34rem] z-20 w-full">
                         <h1 className="text-[20px] md:text-4xl xl:text-8xl font-semibold tracking-[0.12em] font-saira font-light">ENTRENÁ CONMIGO</h1>
                         <h3 className="text-[10px] md:text-2xl xl:text-4xl font-semibold text-secondary tracking-[0.12em] font-saira font-normal">TRANSFORMA TU ESFUERZO EN RESULTADOS</h3>
                     <div className="grid justify-center mt-2 lg:mt-6">

@@ -12,7 +12,7 @@ const AboutMe = () => {
             <Container id="about-1" className="mt-40 px-4 pb-20  md:pb-0 md:px-6">
                 <div className="grid md:grid-cols-2 justify-around items-center justify-items-center w-full m-auto bg-[#1D1D1D] py-4 md:py-0">
                     <div className="p-4">
-                    <Image src={avatar} alt="avatar" className="h-[250px] w-[300px] md:h-[450px] md:w-[500px]"/>
+                    <Image src={avatar} alt="avatar" className="h-[250px] w-[300px] md:h-[450px] md:w-[500px]" priority/>
                     </div>
                     <div className="max-w-xl mx-4 my-2">
                     <h1 className="text-2xl md:text-4xl uppercase font-semibold text-secondary tracking-[0.1em] mb-8">¿Quién soy?</h1>
@@ -32,14 +32,14 @@ const AboutMe = () => {
                     <h2 className="text-1xl uppercase font-semibold mb-4">Cambié no solo mi físico, sino también mi mentalidad y mis hábitos.</h2>
                     </div>
                     <div className="p-4">
-                    <Image src={avatar2} alt="avatar2" className="h-[250px] w-[300px] md:h-[450px] md:w-[500px]" />
+                    <Image src={avatar2} alt="avatar2" className="h-[250px] w-[300px] md:h-[450px] md:w-[500px]" priority/>
                     </div>
                 </div>
             </Container>
             <Container id="about-3" className="mt-20 lg:mt-32 px-4 pb-24 lg:pb-40  md:pb-0 md:px-6">
                 <div className="grid md:grid-cols-2 justify-around items-center justify-items-center w-full m-auto bg-[#1D1D1D] py-4 md:py-0">
                     <div className="p-4">
-                    <Image src={avatar3} alt="avatar" className="h-[250px] w-[300px] md:h-[450px] md:w-[500px]"/>
+                    <Image src={avatar3} alt="avatar" className="h-[250px] w-[300px] md:h-[450px] md:w-[500px]" priority/>
                     </div>
                     <div className="max-w-xl mx-4 my-2">
                     <h1 className="text-2xl md:text-4xl uppercase font-semibold text-secondary tracking-[0.1em] mb-8">¿Y ahora?</h1>
