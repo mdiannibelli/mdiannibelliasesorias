@@ -49,14 +49,14 @@ const PlanesDeEntrenamiento = () => {
                     </video>
                     </div>
                     <div className="grid justify-items-center absolute top-[24rem] xl:top-[34rem] z-20 w-full">
-                        <h1 className="text-2xl md:text-4xl xl:text-8xl font-semibold tracking-[0.12em] font-saira font-light">ENTRENÁ CONMIGO</h1>
-                        <h3 className="text-xs md:text-2xl xl:text-4xl font-semibold text-secondary tracking-[0.12em] font-saira font-normal">TRANSFORMA TU ESFUERZO EN RESULTADOS</h3>
+                        <h1 className="text-[20px] md:text-4xl xl:text-8xl font-semibold tracking-[0.12em] font-saira font-light">ENTRENÁ CONMIGO</h1>
+                        <h3 className="text-[10px] md:text-2xl xl:text-4xl font-semibold text-secondary tracking-[0.12em] font-saira font-normal">TRANSFORMA TU ESFUERZO EN RESULTADOS</h3>
                     <div className="grid justify-center mt-2 lg:mt-6">
                         <Link href="mailto:mdiannibelliasesorias@gmail.com" target="_blank"
                         className="px-2 py-1 text-xs m-2 md:text-lg md:px-3 md:py-2 transition-all border border-orange-700 bg-secondary bg-opacity-[0.8] text-white cursor-pointer w-fit rounded-sm hover:shadow-xl hover:shadow-secondary/50">Contáctame</Link>
                     </div>
                     <div className="mt-4">
-                        <h1 className="text-xs md:text-md">Planes con seguimiento | Planes sin seguimiento</h1>
+                        <h1 className="text-[10px] md:text-sm">Planes con seguimiento | Planes sin seguimiento</h1>
                     </div>
                     </div>
                 </div>

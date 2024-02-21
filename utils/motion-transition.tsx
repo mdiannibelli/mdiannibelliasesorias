@@ -2,15 +2,18 @@
 export const transitionVariantsPage = {
     initial: {
         x: "100%",
-        width: "100%"
+        width: "100%",
+        z: "100"
     },
     animate: {
         x: "0%",
-        width: "0%"
+        width: "0%",
+        z: "100"
     },
     exit: {
         x: ["0%", "100%"],
-        width: ["0%", "100%"]
+        width: ["0%", "100%"],
+        z: "100"
     }
 }
 

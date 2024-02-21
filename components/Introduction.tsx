@@ -8,7 +8,7 @@ const Introduction = () => {
     return (
         <div className="w-[100dvh] m-auto z-20">
             <div className="z-20 grid items-center justify-items-center h-full p-6 py-20 md:py-0 md:grid-cols-2">
-                <Image className="h-auto h-[600px] w-[400px]" src={mainImg} priority alt="mainpic"/>
+                <Image className="h-auto h-[400px] w-[300px] md:h-[600px] md:w-[400px]" src={mainImg} priority alt="mainpic"/>
 
                 <div className="flex flex-col justify-center max-w-md">
                     <h1 className="text-2xl font-bold text-center md:text-left md:text-[40px] md:mb-2">
