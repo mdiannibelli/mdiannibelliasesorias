@@ -11,7 +11,7 @@ const PlanesDeEntrenamiento = () => {
         <>
             <TransitionPage/>
             <Container id="planes-de-entrenamiento" className="mt-40 pb-40 md:pb-0">
-                <div className="grid items-center">
+                <div className="grid items-center w-full">
                     <div className="md:grid grid-cols-3  opacity-[0.3]">
                     <video
                     className=""
@@ -48,7 +48,7 @@ const PlanesDeEntrenamiento = () => {
                         <source src="https://res.cloudinary.com/dvvtskcux/video/upload/v1708467996/fyqaqdewqo8zhmhd3ncr.mp4"/>
                     </video>
                     </div>
-                    <div className="grid justify-items-center items-center m-auto absolute top-[24rem] xl:top-[34rem] z-20 w-full">
+                    <div className="flex flex-col justify-center items-center m-auto absolute right-0 left-0 top-[24rem] xl:top-[34rem] z-20">
                         <h1 className="text-[20px] md:text-4xl xl:text-8xl font-semibold tracking-[0.12em] font-saira font-light">ENTRENÁ CONMIGO</h1>
                         <h3 className="text-[10px] md:text-2xl xl:text-4xl font-semibold text-secondary tracking-[0.12em] font-saira font-normal">TRANSFORMA TU ESFUERZO EN RESULTADOS</h3>
                     <div className="grid justify-center mt-2 lg:mt-6">
