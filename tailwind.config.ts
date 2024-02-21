@@ -8,12 +8,19 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        secondary: "#F36605",
+        darkBg: "#0B0603"
       },
-    },
+      backgroundImage: {
+        "gradient-cover": 
+          "linear-gradient(90.21deg, rgb(11, 6, 3) -3.91%, rgb(30, 13, 1) 111.58%)"
+        
+      },
+      fontFamily: {
+        'saira': ['"Fira Sans Extra Condensed" sans-serif;']
+      },
+    }
   },
   plugins: [],
 };
