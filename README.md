@@ -9,6 +9,11 @@
 - react-type-animation
 - react-player
 
+[![asesorias-1.png](https://i.postimg.cc/SxXYG7sW/asesorias-1.png)](https://postimg.cc/VJ8NftX6)
+[![asesorias-2.png](https://i.postimg.cc/R0K3kSwh/asesorias-2.png)](https://postimg.cc/jWqdNrgY)
+[![asesorias-3.png](https://i.postimg.cc/65bGR19W/asesorias-3.png)](https://postimg.cc/SJ8sbd23)
+[![asesorias-4.png](https://i.postimg.cc/D0B4xxLc/asesorias-4.png)](https://postimg.cc/FkkKRgPf)
+
 ## Making web step by step
 
 - Edit taiwind.config.ts
